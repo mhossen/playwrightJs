@@ -1,0 +1,26 @@
+{
+  "name": "playwrightjs",
+  "version": "1.0.0",
+  "description": "Learning Playwright with JavaScript",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhossen/playwrightJs.git"
+  },
+  "keywords": [
+    "PlaywrightJs",
+    "Playwright",
+    "JavaScript",
+    "Node"
+  ],
+  "author": "Mohammed Hossen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhossen/playwrightJs/issues"
+  },
+  "homepage": "https://github.com/mhossen/playwrightJs#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.24.0"
+  }
+}
